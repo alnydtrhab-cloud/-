@@ -1,5 +1,5 @@
 {
-  "name": "simple-website",
+  "name": "موقع مستر قصي",
   "version": "1.0.0",
   "description": "موقع ويب بسيط باستخدام Node.js و Express",
   "main": "index.js",
